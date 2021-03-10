@@ -2,312 +2,312 @@
     "users": [
         {
             "id": 1,
-            "username": "username1",
-            "email": "email1@gmail.com",
-            "password": "asdar!32A"
+            "username": "name1",
+            "email": "usermail1@gmail.com",
+            "password": "Password1!"
         },
         {
             "id": 2,
-            "username": "usernamehjk1",
-            "email": "emailer1@gmail.com",
-            "password": "asdar!32A"
+            "username": "name2",
+            "email": "usermail2@gmail.com",
+            "password": "Password2!"
         },
         {
             "id": 3,
-            "username": "username1hkhgk",
-            "email": "emailery1@gmail.com",
-            "password": "asdar!32A"
+            "username": "name3",
+            "email": "usermail3@gmail.com",
+            "password": "Password3!"
         },
         {
             "id": 4,
-            "username": "username1ghk",
-            "email": "emailewtwe1@gmail.com",
-            "password": "asdar!32A"
+            "username": "name4",
+            "email": "usermail4@gmail.com",
+            "password": "Password4!"
         },
         {
             "id": 5,
-            "username": "username1jgk",
-            "email": "emailsdf1@gmail.com",
-            "password": "asdar!32A"
+            "username": "name5",
+            "email": "usermail5@gmail.com",
+            "password": "Password5!"
         },
         {
             "id": 6,
-            "username": "username1gk",
-            "email": "emailewtfs1@gmail.com",
-            "password": "asdar!32A"
+            "username": "name6",
+            "email": "usermail6@gmail.com",
+            "password": "Password6!"
         },
         {
             "id": 7,
-            "username": "username1ghk",
-            "email": "emailwet1@gmail.com",
-            "password": "asdar!32A"
+            "username": "name7",
+            "email": "usermail7@gmail.com",
+            "password": "Password7!"
         },
         {
             "id": 8,
-            "username": "username1ghk",
-            "email": "emailsdfsd1@gmail.com",
-            "password": "asdar!32A"
+            "username": "name8",
+            "email": "usermail8@gmail.com",
+            "password": "Password8!"
         },
         {
             "id": 9,
-            "username": "username1ghk",
-            "email": "email1sdfsdf@gmail.com",
-            "password": "asdar!32A"
+            "username": "name9",
+            "email": "usermail9@gmail.com",
+            "password": "Password9!"
         },
         {
             "id": 10,
-            "username": "username1ghk",
-            "email": "email1et@gmail.com",
-            "password": "asdar!32A"
+            "username": "name10",
+            "email": "usermail10@gmail.com",
+            "password": "Password10!"
         }
     ],
-    "gadgets": {
-        "iphone": [
+    "Products": {
+        "Chairs": [
             {
                 "id": 1,
-                "model": "12",
-                "memory": 64,
-                "price": 1200
+                "model": "LILLASEN",
+                "materials": "Bamboo",
+                "price": 50000
             },
             {
                 "id": 2,
-                "model": "11",
-                "memory": 32,
-                "price": 700
+                "model": "BRIMNES",
+                "materials": "Chipboard",
+                "price": 25000
             },
             {
                 "id": 3,
-                "model": "SE2",
-                "memory": 32,
-                "price": 750
+                "model": "ADILS",
+                "materials": "Fiberboard",
+                "price": 15000
             },
             {
                 "id": 4,
-                "model": "SE",
-                "memory": 64,
-                "price": 500
+                "model": "BEKANT",
+                "materials": "Chipboard",
+                "price": 50000
             },
             {
                 "id": 5,
-                "model": "X",
-                "memory": 128,
-                "price": 1000
+                "model": "LINNMON ALEX",
+                "materials": "Chipboard",
+                "price": 35000
             },
             {
                 "id": 6,
-                "model": "XR",
-                "memory": 256,
-                "price": 1500
+                "model": "LINNMON LERBERG",
+                "materials": "Fiberboard",
+                "price": 10000
             },
             {
                 "id": 7,
-                "model": "12 Pro Max",
-                "memory": 64,
-                "price": 1300
+                "model": "LINNMON OLOV",
+                "materials": "Fiberboard",
+                "price": 20000
             },
             {
                 "id": 8,
-                "model": "12 Pro",
-                "memory": 32,
-                "price": 1100
+                "model": "LINNMON ADILS,
+                "materials": "Chipboard",
+                "price": 20000
             },
             {
                 "id": 9,
-                "model": "8",
-                "memory": 32,
-                "price": 500
+                "model": "MICKE",
+                "materials": "Fiberboard",
+                "price": 25000
             },
             {
                 "id": 10,
-                "model": "7",
-                "memory": 128,
-                "price": 650
+                "model": "PAHL",
+                "materials": "Chipboard",
+                "price": 20000
             }
         ],
-        "ipad": [
-            {
+        "Sofas": [
+             {
                 "id": 1,
-                "model": "Pro",
-                "memory": 64,
-                "price": 1200
+                "model": "SVENSTA",
+                "materials": "Solid wood, Fibreboard, Birch plywood, Polyurethane foam",
+                "price": 30000
             },
             {
                 "id": 2,
-                "model": "Air",
-                "memory": 32,
-                "price": 700
+                "model": "FRIHETEN",
+                "materials": "Solid wood, chipboard, Plywood, fiberboard, Polyurethane foam, Polyester wadding, Solid birch",
+                "price": 142000
             },
             {
                 "id": 3,
-                "model": "iPad",
-                "memory": 32,
-                "price": 750
+                "model": "GIMMARP",
+                "materials": "Plywood, chipboard, fiberboard, polyurethane foam",
+                "price": 90000
             },
             {
                 "id": 4,
-                "model": "Mini",
-                "memory": 64,
-                "price": 500
+                "model": "KLIPPAN",
+                "materials": "Particleboard, Fibreboard, Birch plywood, Solid wood, Paper foil, Acrylic paint, Paper foil",
+                "price": 60000
             },
             {
                 "id": 5,
-                "model": "Mini X",
-                "memory": 128,
-                "price": 1000
+                "model": "GRALLSTA",
+                "materials": "Plywood, Particleboard, Fibreboard, Laminated veneer",
+                "price": 70000
             },
             {
                 "id": 6,
-                "model": "Air Max",
-                "memory": 256,
-                "price": 1500
+                "model": "BRISSUND",
+                "materials": "Solid wood, Fibreboard, Birch plywood, Polyurethane foam",
+                "price": 95000
             },
             {
                 "id": 7,
-                "model": "Air Mini",
-                "memory": 64,
-                "price": 1300
+                "model": "GIMMARP2",
+                "materials": "Solid wood, Fibreboard, Birch plywood, Polyurethane foam",
+                "price": 100000
             },
             {
                 "id": 8,
-                "model": "Pro Max",
-                "memory": 32,
-                "price": 1100
+                "model": "BRISSUND2",
+                "materials": "Plywood, chipboard, fiberboard, polyurethane foam",
+                "price": 99000
             },
             {
                 "id": 9,
-                "model": "Ultimate",
-                "memory": 32,
-                "price": 500
+                "model": "LANDSKRONA",
+                "materials": "Particleboard, Birch plywood, Solid wood, Fibreboard, Polyurethane foam, Polyester wadding",
+                "price": 250000
             },
             {
                 "id": 10,
-                "model": "Ultimate Pro",
-                "memory": 128,
-                "price": 650
+                "model": "ASKESTA",
+                "materials": "Plywood, chipboard, fiberboard, polyurethane foam",
+                "price": 170000
             }
         ],
-        "MacBook": [
-            {
+        "Cabinets": [
+             {
                 "id": 1,
-                "model": "Pro",
-                "memory": 64,
-                "price": 1200
+                "model": "BRIMNES",
+                "materials": "Particleboard, Paper foil",
+                "price": 15000
             },
             {
                 "id": 2,
-                "model": "Air",
-                "memory": 32,
-                "price": 700
+                "model": "KLEPPSTAD",
+                "materials": "Particleboard, Paper foil",
+                "price": 20000
             },
             {
                 "id": 3,
-                "model": "Pro 13",
-                "memory": 32,
-                "price": 2000
+                "model": "KLEPPSTAD2",
+                "materials": "Particleboard, Paper foil",
+                "price": 70000
             },
             {
                 "id": 4,
-                "model": "Mini",
-                "memory": 64,
-                "price": 500
+                "model": "HAUGA",
+                "materials": "Particleboard, Paper foil, Plastic edging",
+                "price": 50000
             },
             {
                 "id": 5,
-                "model": "Mini X",
-                "memory": 128,
-                "price": 1000
+                "model": "PAX",
+                "materials": "Particleboard, Melamine foil",
+                "price": 120000
             },
             {
                 "id": 6,
-                "model": "Air Max",
-                "memory": 256,
-                "price": 1500
+                "model": "PAX2",
+                "materials": "Particleboard, Paper foil",
+                "price": 120000
             },
             {
                 "id": 7,
-                "model": "Air Mini",
-                "memory": 64,
-                "price": 1300
+                "model": "KLEPPSTAD3",
+                "materials": "Particleboard, Melamine foil",
+                "price": 15000
             },
             {
                 "id": 8,
-                "model": "Pro Max",
-                "memory": 32,
-                "price": 1100
+                "model": "BRIMNES2",
+                "materials": "Plywood, chipboard, fiberboard, polyurethane foam",
+                "price": 50000
             },
             {
                 "id": 9,
-                "model": "Ultimate",
-                "memory": 32,
-                "price": 500
+                "model": "SONGESAND",
+                "materials": "Particleboard, Paper foil, Plastic edging",
+                "price": 80000
             },
             {
                 "id": 10,
-                "model": "Pro 16",
-                "memory": 128,
-                "price": 650
+                "model": "PAX3",
+                "materials": "Particleboard, Paper foil, Plastic",
+                "price": 150000
             }
         ],
-        "Watch": [
-            {
+        "Chairs": [
+             {
                 "id": 1,
-                "model": "Series 6",
-                "memory": 64,
-                "price": 1200
+                "model": "EGGELSTAD",
+                "materials": "Solid birch, Acrylic paintl",
+                "price": 15000
             },
             {
                 "id": 2,
-                "model": "Series 6 Pro",
-                "memory": 32,
-                "price": 700
+                "model": "INGOLF",
+                "materials": "Solid birch, Acrylic paint",
+                "price": 20000
             },
             {
                 "id": 3,
-                "model": "Series 6 SE",
-                "memory": 32,
-                "price": 2000
+                "model": "TOSSBERG",
+                "materials": "Solid birch, Acrylic paint",
+                "price": 70000
             },
             {
                 "id": 4,
-                "model": "SE",
-                "memory": 64,
-                "price": 500
+                "model": "BÖRJE",
+                "materials": "Solid birch, Acrylic paint",
+                "price": 50000
             },
             {
                 "id": 5,
-                "model": "Series 3",
-                "memory": 128,
-                "price": 1000
+                "model": "VEDBO",
+                "materials": "Solid birch, Acrylic paint",
+                "price": 120000
             },
             {
                 "id": 6,
-                "model": "Series 3 Pro",
-                "memory": 256,
-                "price": 1500
+                "model": "NOLMYRA ",
+                "materials": "Steel, Polyester wadding, Highly resilient polyurethane foam",
+                "price": 120000
             },
             {
                 "id": 7,
-                "model": "Series 3 SE",
-                "memory": 64,
-                "price": 1300
+                "model": "VEDBO",
+                "materials": "Steel, Polyester wadding, Highly resilient polyurethane foam",
+                "price": 15000
             },
             {
                 "id": 8,
-                "model": "Nike",
-                "memory": 32,
-                "price": 1100
+                "model": "TOSSBERG",
+                "materials": "Steel, Polyester wadding, Highly resilient polyurethane foam",
+                "price": 50000
             },
             {
                 "id": 9,
-                "model": "Hermes",
-                "memory": 32,
-                "price": 500
+                "model": "VEDBO",
+                "materials": "Steel, Polyester wadding, Highly resilient polyurethane foam",
+                "price": 80000
             },
             {
                 "id": 10,
-                "model": "Nike Pro",
-                "memory": 128,
-                "price": 650
+                "model": "INGOLF",
+                "materials": "Particleboard, Paper foil, Plastic",
+                "price": 150000
             }
         ]
     }

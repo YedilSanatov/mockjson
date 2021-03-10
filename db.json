@@ -107,59 +107,59 @@
   {
     "id": 1,
     "name": "LILLASEN"
-    "image":"https://www.ikea.com/ru/ru/images/products/lillasen-lillosen-pismennyy-stol-bambuk__0736017_pe740344_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/lillasen-lillosen-pismennyy-stol-bambuk__0736017_pe740344_s5.jpg?f=s"
     "price":50000
   },
    {
     "id": 2,
     "name": "BRIMNES"
-    "image":"https://www.ikea.com/ru/ru/images/products/brimnes-pismennyy-stol-belyy__0928487_pe789888_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/brimnes-pismennyy-stol-belyy__0928487_pe789888_s5.jpg?f=s"
     "price":25000
   },
   {
     "id": 3,
     "name": "ADILS"
-    "image":"https://www.ikea.com/ru/ru/images/products/linnmon-adils-adils-stol-cherno-korichnevyy-belyy__0737174_pe740917_s5.jpg?f=xl"
+    "image": "https://www.ikea.com/ru/ru/images/products/linnmon-adils-adils-stol-cherno-korichnevyy-belyy__0737174_pe740917_s5.jpg?f=xl"
     "price":15000
   },
   {
     "id": 4,
     "name": "BEKANT"
-    "image":"https://www.ikea.com/ru/ru/images/products/bekant-pismennyy-stol-belyy-chernyy__0853510_pe714611_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/bekant-pismennyy-stol-belyy-chernyy__0853510_pe714611_s5.jpg?f=s"
     "price":50000
   },
    {
     "id": 5,
     "name": "LINNMON ALEX"
-    "image":"https://www.ikea.com/ru/ru/images/products/linnmon-alex-aleks-stol-cherno-korichnevyy-belyy__0737557_pe741162_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/linnmon-alex-aleks-stol-cherno-korichnevyy-belyy__0737557_pe741162_s5.jpg?f=s"
     "price":35000
   },
   {
     "id": 6,
     "name": "LINNMON LERBERG"
-    "image":"https://www.ikea.com/ru/ru/images/products/linnmon-lerberg-lerberg-stol-chernyy-fanera-siniy__0794852_pe765741_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/linnmon-lerberg-lerberg-stol-chernyy-fanera-siniy__0794852_pe765741_s5.jpg?f=s"
     "price":10000
   },
     {
     "id": 7,
     "name": "LINNMON OLOV"
-    "image":"https://www.ikea.com/ru/ru/images/products/linnmon-olov-olov-stol-chernyy-fanera__0795474_pe766109_s5.jpg?f=xl"
+    "image": "https://www.ikea.com/ru/ru/images/products/linnmon-olov-olov-stol-chernyy-fanera__0795474_pe766109_s5.jpg?f=xl"
     "price":20000
   },
   {
     "id": 8,
     "name": "LINNMON ADILS"
-    "image":"https://www.ikea.com/ru/ru/images/products/linnmon-adils-adils-stol-belyy__0737552_pe741157_s5.jpg?f=xl"
+    "image": "https://www.ikea.com/ru/ru/images/products/linnmon-adils-adils-stol-belyy__0737552_pe741157_s5.jpg?f=xl"
     "price":20000
-  },
+  },{
   "id": 9,
     "name": "MICKE"
-    "image":"https://www.ikea.com/ru/ru/images/products/micke-mikke-pismennyy-stol-belyy__0736018_pe740345_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/micke-mikke-pismennyy-stol-belyy__0736018_pe740345_s5.jpg?f=s"
     "price":25000
-  },
+  },{
   "id": 10,
     "name": "PÅHL"
-    "image":"https://www.ikea.com/ru/ru/images/products/pahl-pol-pismennyy-stol-belyy__0735883_pe740238_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/pahl-pol-pismennyy-stol-belyy__0735883_pe740238_s5.jpg?f=s"
     "price":20000
   }
   ],
@@ -167,59 +167,61 @@
   {
     "id": 1,
     "name": "SVENSTA"
-    "image":"https://www.ikea.com/ru/ru/images/products/svensta-2-mestnyy-divan-krovat-temno-siniy__1010073_pe827878_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/svensta-2-mestnyy-divan-krovat-temno-siniy__1010073_pe827878_s5.jpg?f=s"
     "price":30000
   },
    {
     "id": 2,
     "name": "FRIHETEN"
-    "image":"https://www.ikea.com/ru/ru/images/products/friheten-ugl-div-krov-s-otd-d-hran-shiftebu-temno-seryy__0175610_pe328883_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/friheten-ugl-div-krov-s-otd-d-hran-shiftebu-temno-seryy__0175610_pe328883_s5.jpg?f=s"
     "price":142000
   },
   {
     "id": 3,
     "name": "GIMMARP"
-    "image":"https://www.ikea.com/ru/ru/images/products/gimmarp-3-mestnyy-divan-krovat-rudorna-svetlo-seryy__0759910_pe750538_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/gimmarp-3-mestnyy-divan-krovat-rudorna-svetlo-seryy__0759910_pe750538_s5.jpg?f=s"
     "price":90000
   },
   {
     "id": 4,
     "name": "KLIPPAN "
-    "image":"https://www.ikea.com/ru/ru/images/products/klippan-2-mestnyy-divan-visle-seryy__0239990_pe379591_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/klippan-2-mestnyy-divan-visle-seryy__0239990_pe379591_s5.jpg?f=s"
     "price":60000
   },
    {
     "id": 5,
     "name": "GRÄLLSTA"
-    "image":"https://www.ikea.com/ru/ru/images/products/graellsta-grellsta-2-mestnyy-divan-krovat-sandsbru-seryy__0761356_pe751222_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/graellsta-grellsta-2-mestnyy-divan-krovat-sandsbru-seryy__0761356_pe751222_s5.jpg?f=s"
     "price":70000
   },
   {
     "id": 6,
     "name": "BRISSUND"
-    "image":"https://www.ikea.com/ru/ru/images/products/brissund-3-mestnyy-divan-krovat-rudorna-temno-seryy__0755264_pe748324_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/brissund-3-mestnyy-divan-krovat-rudorna-temno-seryy__0755264_pe748324_s5.jpg?f=s"
     "price":95000
   },
     {
     "id": 7,
     "name": "GIMMARP2"
-    "image":"https://www.ikea.com/ru/ru/images/products/gimmarp-divan-krovat-s-kozetkoy-rudorna-svetlo-seryy__0746366_pe743963_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/gimmarp-divan-krovat-s-kozetkoy-rudorna-svetlo-seryy__0746366_pe743963_s5.jpg?f=s"
     "price":100000
   },
   {
     "id": 8,
     "name": "BRISSUND2"
-    "image":"https://www.ikea.com/ru/ru/images/products/brissund-divan-krovat-s-kozetkoy-rudorna-temno-seryy__0748001_pe744788_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/brissund-divan-krovat-s-kozetkoy-rudorna-temno-seryy__0748001_pe744788_s5.jpg?f=s"
     "price":99000
   },
+    {
   "id": 9,
     "name": "LANDSKRONA"
-    "image":"https://www.ikea.com/ru/ru/images/products/landskrona-landskruna-3-mestnyy-divan-krovat-gunnared-svetlo-zelenyy-derevo__0771656_pe755756_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/landskrona-landskruna-3-mestnyy-divan-krovat-gunnared-svetlo-zelenyy-derevo__0771656_pe755756_s5.jpg?f=s"
     "price":250000
   },
+    {
   "id": 10,
     "name": "ASKESTA"
-    "image":"https://www.ikea.com/ru/ru/images/products/askesta-3-mestnyy-divan-krovat-shiftebu-zheltyy__0778506_pe759028_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/askesta-3-mestnyy-divan-krovat-shiftebu-zheltyy__0778506_pe759028_s5.jpg?f=s"
     "price":170000
   }
   ],
@@ -227,59 +229,61 @@
   {
     "id": 1,
     "name": "BRIMNES"
-    "image":"https://www.ikea.com/ru/ru/images/products/brimnes-shkaf-platyanoy-3-dvernyy-belyy__0176787_pe329567_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/brimnes-shkaf-platyanoy-3-dvernyy-belyy__0176787_pe329567_s5.jpg?f=s"
     "price":50000
   },
    {
     "id": 2,
     "name": "KLEPPSTAD"
-    "image":"https://www.ikea.com/ru/ru/images/products/kleppstad-garderob-2-dvernyy-belyy__0733324_pe748781_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/kleppstad-garderob-2-dvernyy-belyy__0733324_pe748781_s5.jpg?f=s"
     "price":15000
   },
   {
     "id": 3,
     "name": "KLEPPSTAD2"
-    "image":"https://www.ikea.com/ru/ru/images/products/kleppstad-garderob-3-dvernyy-belyy__0753594_pe748782_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/kleppstad-garderob-3-dvernyy-belyy__0753594_pe748782_s5.jpg?f=s"
     "price":20000
   },
   {
     "id": 4,
     "name": "HAUGA"
-    "image":"https://www.ikea.com/ru/ru/images/products/hauga-garderob-s-razdvizhnymi-dveryami-belyy__0964993_pe809314_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/hauga-garderob-s-razdvizhnymi-dveryami-belyy__0964993_pe809314_s5.jpg?f=s"
     "price":70000
   },
    {
     "id": 5,
     "name": "PAX"
-    "image":"https://www.ikea.com/ru/ru/images/products/pax-paks-garderob-belyy-hasvik-belyy__0300268_pe426268_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/pax-paks-garderob-belyy-hasvik-belyy__0300268_pe426268_s5.jpg?f=s"
     "price":120000
   },
   {
     "id": 6,
     "name": "PAX2"
-    "image":"https://www.ikea.com/ru/ru/images/products/pax-paks-garderob-belyy-hasvik-belyy__0378711_pe554731_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/pax-paks-garderob-belyy-hasvik-belyy__0378711_pe554731_s5.jpg?f=s"
     "price":120000
   },
     {
     "id": 7,
     "name": "KLEPPSTAD3"
-    "image":"https://www.ikea.com/ru/ru/images/products/kleppstad-garderob-2-dvernyy-belyy__0733324_pe748781_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/kleppstad-garderob-2-dvernyy-belyy__0733324_pe748781_s5.jpg?f=s"
     "price":15000
   },
   {
     "id": 8,
     "name": "BRIMNES2"
-    "image":"https://www.ikea.com/ru/ru/images/products/brimnes-shkaf-platyanoy-3-dvernyy-belyy__0176787_pe329567_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/brimnes-shkaf-platyanoy-3-dvernyy-belyy__0176787_pe329567_s5.jpg?f=s"
     "price":50000
   },
+     {
   "id": 9,
     "name": "SONGESAND"
-    "image":"https://www.ikea.com/ru/ru/images/products/songesand-shkaf-platyanoy-belyy__0555120_pe660185_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/songesand-shkaf-platyanoy-belyy__0555120_pe660185_s5.jpg?f=s"
     "price":80000
   },
+     {
   "id": 10,
     "name": "PAX3"
-    "image":"https://www.ikea.com/ru/ru/images/products/pax-paks-garderob-kombinaciya-pod-belenyy-dub__0840347_pe778695_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/pax-paks-garderob-kombinaciya-pod-belenyy-dub__0840347_pe778695_s5.jpg?f=s"
     "price":150000
   }
   ],

@@ -109,18 +109,18 @@
                 "id": 8,
                 "model": "LINNMON ADILS,
                 "materials": "Chipboard",
-                "price": 20000
+                "price": 21000
             },
             {
                 "id": 9,
                 "model": "MICKE",
-                "materials": "Fiberboard",
+                "materials": "Fiberboard2",
                 "price": 25000
             },
             {
                 "id": 10,
                 "model": "PAHL",
-                "materials": "Chipboard",
+                "materials": "Chipboardd",
                 "price": 20000
             }
         ],

@@ -108,13 +108,13 @@
   {
     "id": 1,
     "name": "LILLASEN"
-    "url": "https://www.ikea.com/ru/ru/images/products/lillasen-lillosen-pismennyy-stol-bambuk__0736017_pe740344_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/lillasen-lillosen-pismennyy-stol-bambuk__0736017_pe740344_s5.jpg?f=s"
     "price": 50000
   },
    {
     "id": 2,
     "name": "BRIMNES"
-    "url": "https://www.ikea.com/ru/ru/images/products/brimnes-pismennyy-stol-belyy__0928487_pe789888_s5.jpg?f=s"
+    "image": "https://www.ikea.com/ru/ru/images/products/brimnes-pismennyy-stol-belyy__0928487_pe789888_s5.jpg?f=s"
     "price": 25000
   },
   {
